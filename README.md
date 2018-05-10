@@ -1,6 +1,9 @@
 # hello-world
-試験的なリポジトリです ^^
-test repository :)
+試験的なリポジトリです ^^ 
 
-githubを覚える上で作業する場になる予定です
-i study github from this place ...mayby
+test repository :) 
+
+
+githubを覚える上で作業する場になる予定です 
+
+i study github from this place ...mayby 
